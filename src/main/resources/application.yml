@@ -1,0 +1,13 @@
+server:
+    port: 1111
+
+kafka:
+  topic:
+    #request: eapps-rqst-tpk
+    request: er
+    response: eapps-rspns-tpk
+  server:
+    bootstrap: DESKTOP-5HTBTOA.mshome.net:9092  
+
+
+
